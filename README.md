@@ -38,7 +38,7 @@ Good for: testing a ship without building its power plant first, admin events, b
 ## Required
 - **PowerGrid** - Steam lists it under *Required Items*
 
-All my addons in one click: [Ascension Gates - Complete](https://steamcommunity.com/sharedfiles/filedetails/?id=3840681489)
+All Ascension Gates addons in one click: [Ascension Gates - Complete](https://steamcommunity.com/sharedfiles/filedetails/?id=3840681489)
 
 ## First steps
 1. Q > tools on the right > **PowerGrid Parts** > Black Hole Energy. Place it.
@@ -64,4 +64,4 @@ Never needed, always appreciated. A thumbs-up helps too.
 ---
 
 ## Licence
-MIT. Code, model and textures are my own work.
+MIT. Code, model and textures are original work.
