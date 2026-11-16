@@ -5,7 +5,7 @@
 The Black Hole Cache is a contained singularity for PowerGrid. Link it to a network and that network has every resource it will ever need: energy, oxygen, water, nitrogen, hydrogen and the rest. It refills itself, pulls nothing in and destroys nothing.
 
 ## Install
-**Steam Workshop (easiest):** subscribe there.
+**Steam Workshop (easiest):** subscribe [there](https://steamcommunity.com/sharedfiles/filedetails/?id=3840678750).
 
 **By hand:** download `blackhole_cache-1.0.0.zip` from [Releases](../../releases/latest) and unpack it into
 `garrysmod/addons/` (you get the folder `garrysmod/addons/blackhole_cache`).
@@ -38,7 +38,7 @@ Good for: testing a ship without building its power plant first, admin events, b
 ## Required
 - **PowerGrid** - Steam lists it under *Required Items*
 
-All our addons in one click: *Ascension Gates - Complete* (Steam Workshop collection)
+All our addons in one click: [Ascension Gates - Complete](https://steamcommunity.com/sharedfiles/filedetails/?id=3840681489)
 
 ## First steps
 1. Q > tools on the right > **PowerGrid Parts** > Black Hole Energy. Place it.

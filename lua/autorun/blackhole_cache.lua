@@ -4,7 +4,7 @@ BlackHoleCache = BlackHoleCache or {}
 BlackHoleCache.Version = "1.0.0"
 BlackHoleCache.Links = {
 	GitHub = "https://github.com/moonrise420/blackhole-cache",
-	Workshop = "", -- e.g. https://steamcommunity.com/sharedfiles/filedetails/?id=<id>
+	Workshop = "https://steamcommunity.com/sharedfiles/filedetails/?id=3840678750",
 }
 
 -- the name in the player's language
