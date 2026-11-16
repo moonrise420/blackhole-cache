@@ -1,4 +1,5 @@
 # Black Hole Cache
+<img src=".github/images/thumbnail.jpg" width="220" align="right" alt="">
 > A singularity in a jar. It never runs dry, and it never eats your base.
 
 The Black Hole Cache is a contained singularity for PowerGrid. Link it to a network and that network has every resource it will ever need: energy, oxygen, water, nitrogen, hydrogen and the rest. It refills itself, pulls nothing in and destroys nothing.
@@ -11,6 +12,16 @@ The Black Hole Cache is a contained singularity for PowerGrid. Link it to a netw
 
 ## Bugs, problems and wishes
 Please use [Issues](../../issues): pick *Bug report* or *Wish or idea*. On the Steam Workshop page the comments work too.
+
+## Pictures
+<p>
+<img src=".github/images/01_gal2_bhc_4.jpg" width="49%" alt="">
+<img src=".github/images/02_gal2_bhc_3.jpg" width="49%" alt="">
+<img src=".github/images/03_gal_bhc_net_3.jpg" width="49%" alt="">
+<img src=".github/images/04_gal2_bhc_6.jpg" width="49%" alt="">
+<img src=".github/images/05_gal2_bhc_2.jpg" width="49%" alt="">
+<img src=".github/images/06_gal_bhc_net_1.jpg" width="49%" alt="">
+</p>
 
 ---
 
