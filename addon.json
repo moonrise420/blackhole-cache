@@ -1,0 +1,13 @@
+{
+	"title": "Black Hole Cache (PowerGrid)",
+	"type": "entity",
+	"tags": [
+		"build",
+		"fun"
+	],
+	"ignore": [
+		"*.md",
+		"LICENSE",
+		".git*"
+	]
+}
