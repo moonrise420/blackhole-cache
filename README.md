@@ -38,7 +38,7 @@ Good for: testing a ship without building its power plant first, admin events, b
 ## Required
 - **PowerGrid** - Steam lists it under *Required Items*
 
-All our addons in one click: [Ascension Gates - Complete](https://steamcommunity.com/sharedfiles/filedetails/?id=3840681489)
+All my addons in one click: [Ascension Gates - Complete](https://steamcommunity.com/sharedfiles/filedetails/?id=3840681489)
 
 ## First steps
 1. Q > tools on the right > **PowerGrid Parts** > Black Hole Energy. Place it.
@@ -55,7 +55,7 @@ The Black Hole Cache collects nothing and never goes online.
 ---
 
 ## Feed the singularity
-> Infinite resources in the game. Our coffee supply, sadly, is very finite.
+> Infinite resources in the game. My coffee supply, sadly, is very finite.
 
 If the cache saved you an hour of building generators, a small tip is welcome:
 [![](.github/images/donate.png)](https://www.paypal.me/soulridejourney)
@@ -64,4 +64,4 @@ Never needed, always appreciated. A thumbs-up helps too.
 ---
 
 ## Licence
-MIT. Code, model and textures are our own work.
+MIT. Code, model and textures are my own work.
