@@ -46,7 +46,7 @@ All Ascension Gates addons in one click: [Ascension Gates - Complete](https://st
 3. Everything on that node now has what it needs.
 
 ## Settings
-Q > PowerGrid > Settings > **Black Hole Energy**: admins only or everyone. Console: **agp_blackhole_cache_everyone 1**.
+Q > tools on the right > **PowerGrid** tab > Settings > PowerGrid: the button **Black Hole Energy** switches between admins only and everyone. Console: **agp_blackhole_cache_everyone 1**.
 Pasting it with the duplicator or AdvDupe2 follows the same rule.
 
 ## Privacy
