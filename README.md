@@ -59,7 +59,7 @@ The Black Hole Cache collects nothing and never goes online.
 
 If the cache saved you an hour of building generators, a small tip is welcome:
 [![](.github/images/donate.png)](https://www.paypal.me/soulridejourney)
-Never needed, always appreciated. A thumbs-up helps too.
+A thumbs-up helps too.
 
 ---
 
