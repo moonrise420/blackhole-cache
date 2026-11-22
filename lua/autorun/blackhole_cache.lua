@@ -1,7 +1,7 @@
 -- Black Hole Cache: a contained singularity that holds every resource and never runs dry. Needs PowerGrid
 -- (its network) - or Spacebuild, which PowerGrid uses when it is installed.
 BlackHoleCache = BlackHoleCache or {}
-BlackHoleCache.Version = "1.0.0"
+BlackHoleCache.Version = "1.0.1"
 BlackHoleCache.Links = {
 	GitHub = "https://github.com/moonrise420/blackhole-cache",
 	Workshop = "https://steamcommunity.com/sharedfiles/filedetails/?id=3840678750",
@@ -22,9 +22,9 @@ function BlackHoleCache.Name()
 	return NAMES[code] or NAMES[code:match("^(%a+)") or ""] or NAMES[(code:match("^(%a+)") or "") .. "-" .. (code:match("^(%a+)") or "")] or NAMES.en
 end
 
--- 2026-11-15 (gallery shoot: the panel said "Schwarzes-Loch-Energie" with the addons set to English): the name is
--- worked out when the entity file loads, before Ascension Gates makes sg_language; set it again once everything is
--- loaded and whenever the language changes (panel, spawn menu and parts tool read ENT.PrintName)
+-- (gallery shoot: the panel said "Schwarzes-Loch-Energie" with the addons set to English): the name is worked out
+-- when the entity file loads, before Ascension Gates makes sg_language; set it again once everything is loaded and
+-- whenever the language changes (panel, spawn menu and parts tool read ENT.PrintName)
 if CLIENT then
 	local function rename()
 		local st = scripted_ents.GetStored("agp_blackhole_cache")

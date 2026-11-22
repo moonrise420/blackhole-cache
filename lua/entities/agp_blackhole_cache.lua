@@ -15,7 +15,7 @@ ENT.AGPScreen = { up = 6, scale = 0.12, w = 440, lines = 14 }
 list.Set("CAP.Entity", ENT.PrintName, ENT)
 if SERVER then AddCSLuaFile() end
 
--- AGP 2026-11-08: only the spawn menu held non-admins back (SpawnFunction checks AGPAdminOnly); the duplicator only knows
+-- AGP: only the spawn menu held non-admins back (SpawnFunction checks AGPAdminOnly); the duplicator only knows
 -- ENT.AdminOnly, so anyone could paste a dupe with the cache in it (endless resources). Pasting (GMod duplicator,
 -- saves, AdvDupe2 - they all create it through this class function) follows the same rule as spawning now: admins,
 -- single player, or everyone when agp_blackhole_cache_everyone is 1

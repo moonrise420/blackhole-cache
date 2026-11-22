@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.1
+**Fixed**
+- The automatic far version of the model is switched off, so the cache keeps its full detail at any distance.
+
 ## 1.0.0
 First release.
 

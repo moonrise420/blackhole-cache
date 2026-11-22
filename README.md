@@ -2,12 +2,12 @@
 <img src=".github/images/thumbnail.jpg" width="220" align="right" alt="">
 > A singularity in a jar. It never runs dry, and it never eats your base.
 
-The Black Hole Cache is a contained singularity for PowerGrid. Link it to a network and that network has every resource it will ever need: energy, oxygen, water, nitrogen, hydrogen and the rest. It refills itself, pulls nothing in and destroys nothing.
+The Black Hole Cache is a contained singularity for PowerGrid. In the game's menus it is called **Black Hole Energy**. Link it to a network and that network has every resource it will ever need: energy, oxygen, water, nitrogen, hydrogen and the rest. It refills itself, pulls nothing in and destroys nothing.
 
 ## Install
 **Steam Workshop (easiest):** subscribe [there](https://steamcommunity.com/sharedfiles/filedetails/?id=3840678750).
 
-**By hand:** download `blackhole_cache-1.0.0.zip` from [Releases](../../releases/latest) and unpack it into
+**By hand:** download `blackhole_cache-1.0.1.zip` from [Releases](../../releases/latest) and unpack it into
 `garrysmod/addons/` (you get the folder `garrysmod/addons/blackhole_cache`).
 
 ## Bugs, problems and wishes
